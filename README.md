@@ -4,7 +4,6 @@ The project available at the given link, "[https://github.com/NagiPragalathan/75
 The static website is designed to provide a visual representation of the celebration. It may include elements such as images, colors, and text that symbolize the significance of Independence Day. The website aims to create a patriotic atmosphere and evoke a sense of pride and unity among visitors.
 
 By developing this static website, the creator intends to showcase their creativity and pay tribute to the historic occasion of India's 75th Independence Day. It serves as a platform to share wishes and spread the patriotic spirit among people.
-![Independence Day Banner]()
 
 A static website created to celebrate the 75th Independence Day of India and wish people a happy Independence Day. This project aims to convey patriotic sentiments and unite people in the spirit of freedom.
 
